@@ -21,4 +21,6 @@
 4. [Проблемы и решения](problems.md)
 
     * [Установка на Windows 7](win7.md)
+    * [Настройка Smart TV с ByeDPI Manager + V2ray + MaraDNS](smarttv.md)
+
 
