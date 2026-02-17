@@ -1,3 +1,5 @@
+[![Donations Page](https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg)](https://pay.cloudtips.ru/p/92c754db)
+
 # Руководство по ByeDPI Manager
 
 Данное руководство создано для решения частых вопросов о приложении ***ByeDPI Manager*** для ОС Windows.
@@ -22,3 +24,4 @@
 5. [Проблемы и решения](problems.md)
 
     * [Установка на Windows 7](win7.md)
+
