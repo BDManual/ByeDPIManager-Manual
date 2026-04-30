@@ -1,4 +1,4 @@
-# Уствновка ByeDPI Manager на Windows 7
+# Установка ByeDPI Manager на Windows 7
 
 ## Требования
 
